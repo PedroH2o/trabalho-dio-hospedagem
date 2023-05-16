@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\bin\Debug\net7.0\EntregaProjetoHospedagem.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\bin\Debug\net7.0\EntregaProjetoHospedagem.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\bin\Debug\net7.0\EntregaProjetoHospedagem.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\bin\Debug\net7.0\EntregaProjetoHospedagem.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\bin\Debug\net7.0\EntregaProjetoHospedagem.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\obj\Debug\net7.0\EntregaProjetoHospedagem.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\obj\Debug\net7.0\EntregaProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\obj\Debug\net7.0\EntregaProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\obj\Debug\net7.0\EntregaProjetoHospedagem.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\obj\Debug\net7.0\EntregaProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\obj\Debug\net7.0\EntregaProjetoHospedagem.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\obj\Debug\net7.0\refint\EntregaProjetoHospedagem.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\obj\Debug\net7.0\EntregaProjetoHospedagem.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\obj\Debug\net7.0\EntregaProjetoHospedagem.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\.NetProjects\Hospedagem\EntregaProjetoHospedagem\obj\Debug\net7.0\ref\EntregaProjetoHospedagem.dll
